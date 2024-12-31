@@ -1,0 +1,46 @@
+.bg-container {
+    background-image: url("https://e0.pxfuel.com/wallpapers/329/765/desktop-wallpaper-web-design-dark-developer.jpg");
+    height: 100vh;  /* Make sure the container takes up full screen height */
+    background-size: cover;
+}
+.heading {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #c3073f;
+    text-align: center;
+    font-size: 400px;
+    font-weight: bold;
+    border-color: aliceblue;
+    
+    margin-top: 700px;
+    
+}
+
+.para {
+    
+    
+    font-family: "caveat";
+    color: hsl(21, 23%, 25%);
+    text-align: center;
+
+    width: 50vw;
+    font-size: 70px
+    
+}
+.button {
+    color: hsl(79, 74%, 92%);
+    font-family:"monoton" ;
+    background-color:#4E4E50 ;
+     font-size: 90px;
+     padding: 20px;
+     border-radius: 30px;
+     margin-top: 500px;
+}
+
+.head {
+    text-align: center;
+    font-size: 60px;
+    color: black;
+    font-family:  'Bebas Neue', sans-serif;
+    padding-top: 10px;
+}
+
